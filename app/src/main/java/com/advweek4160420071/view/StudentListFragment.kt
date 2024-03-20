@@ -8,7 +8,6 @@ import android.view.ViewGroup
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.advweek4160420071.R
 import com.advweek4160420071.databinding.FragmentStudentListBinding
 import com.advweek4160420071.viewmodel.ListViewModel
 
