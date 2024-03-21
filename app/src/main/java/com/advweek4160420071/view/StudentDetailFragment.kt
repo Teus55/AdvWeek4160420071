@@ -33,7 +33,7 @@ class StudentDetailFragment : Fragment() {
                 student ->
             binding.txtID.setText(student.id)
             binding.txtName.setText(student.name)
-            binding.txtBod.setText(student.dob)
+            binding.txtBod.setText(student.bod)
             binding.txtPhone.setText(student.phone)
         })
     }
